@@ -1,4 +1,4 @@
-# Computer Vision Assignment: Ratio Cut and K-Means Clustering
+# Ratio Cut and K-Means Clustering for Image Segmentation
 
 ## Overview
 
