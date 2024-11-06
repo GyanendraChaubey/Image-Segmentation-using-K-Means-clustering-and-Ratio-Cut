@@ -57,6 +57,8 @@ The comparison of Silhouette Scores for both clustering techniques across two im
 
 You can view all the resulting images in results directory.
 
+![Ratio-cut](results/K-Means_image1_cluster6_64.png)
+![K-Means](results/K-Means_image2_cluster6_64.png)
 
 
 ## How to Use
